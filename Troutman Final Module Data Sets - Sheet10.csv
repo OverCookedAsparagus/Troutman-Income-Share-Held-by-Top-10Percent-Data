@@ -1,0 +1,496 @@
+Country,Year,Municipal Waste
+Australia,2007,615.452
+Australia,2008,613.929
+Australia,2009,612.39
+Australia,2010,610.887
+Australia,2011,596.77
+Australia,2012,592.576
+Australia,2013,588.894
+Australia,2014,585.555
+Australia,2015,585.104
+Australia,2016,558.017
+Australia,2017,559.333
+Austria,2005,573.286
+Austria,2006,595.328
+Austria,2007,595.532
+Austria,2008,599.039
+Austria,2009,587.746
+Austria,2010,558.957
+Austria,2011,568.628
+Austria,2012,574.355
+Austria,2013,573.293
+Austria,2014,560.926
+Austria,2015,557.229
+Austria,2016,563.42
+Austria,2017,568.895
+Austria,2018,575.726
+Belguim,2005,479.041
+Belguim,2006,481.646
+Belguim,2007,490.104
+Belguim,2008,476.929
+Belguim,2009,464.311
+Belguim,2010,454.528
+Belguim,2011,456.042
+Belguim,2012,446.017
+Belguim,2013,436.352
+Belguim,2014,424.374
+Belguim,2015,411.29
+Belguim,2016,417.968
+Belguim,2017,409.104
+Belguim,2018,409.156
+Czechia,2005,287.966
+Czechia,2006,295.088
+Czechia,2007,292.058
+Czechia,2008,304.645
+Czechia,2009,315.594
+Czechia,2010,316.423
+Czechia,2011,317.796
+Czechia,2012,305.539
+Czechia,2013,304.937
+Czechia,2014,307.86
+Czechia,2015,314.802
+Czechia,2016,337.099
+Czechia,2017,342.35
+Czechia,2018,349.928
+Denmark,2005,735.931
+Denmark,2006,738.573
+Denmark,2007,788.494
+Denmark,2008,829.433
+Denmark,2009,761.076
+Denmark,2011,827.515
+Denmark,2012,775.276
+Denmark,2013,774.368
+Denmark,2014,769.924
+Denmark,2015,780.495
+Denmark,2016,784.578
+Denmark,2017,786.599
+Denmark,2018,771.193
+Finland,2005,476.485
+Finland,2006,492.677
+Finland,2007,504.914
+Finland,2008,520.355
+Finland,2009,479.572
+Finland,2010,469.456
+Finland,2011,504.449
+Finland,2012,505.654
+Finland,2013,493.024
+Finland,2014,481.539
+Finland,2015,499.584
+Finland,2016,503.469
+Finland,2017,510.143
+Finland,2018,550.663
+France,2005,530.185
+France,2006,536.483
+France,2007,542.934
+France,2008,538.724
+France,2009,534.68
+France,2010,534.627
+France,2011,534.52
+France,2012,527.034
+France,2013,519.656
+France,2014,518.479
+France,2015,517.647
+France,2016,522.265
+France,2017,527.193
+France,2018,527.259
+Germany,2005,570.508
+Germany,2006,569.838
+Germany,2007,589.177
+Germany,2008,596.639
+Germany,2009,599.086
+Germany,2010,609.165
+Germany,2011,621.317
+Germany,2012,614.516
+Germany,2013,610.661
+Germany,2014,627.4
+Germany,2015,631.21
+Germany,2016,634.27
+Germany,2017,626.555
+Germany,2018,613.694
+Greece,2005,432.347
+Greece,2006,440.501
+Greece,2007,449.77
+Greece,2008,459.86
+Greece,2009,470.287
+Greece,2010,543.46
+Greece,2011,515.833
+Greece,2012,506.719
+Greece,2013,491.97
+Greece,2014,496.661
+Greece,2015,495.04
+Greece,2016,505.596
+Greece,2017,512.326
+Hungary,2005,460.641
+Hungary,2006,468.493
+Hungary,2007,458.243
+Hungary,2008,455.671
+Hungary,2009,432.956
+Hungary,2010,406.251
+Hungary,2011,384.915
+Hungary,2012,404.284
+Hungary,2013,380.113
+Hungary,2014,387.048
+Hungary,2015,379.631
+Hungary,2016,381.525
+Hungary,2017,387.263
+Hungary,2018,384.136
+Iceland,2005,518.681
+Iceland,2006,570.532
+Iceland,2007,570.15
+Iceland,2008,669.12
+Iceland,2009,417.64
+Iceland,2010,480.757
+Iceland,2011,488.447
+Iceland,2012,503.605
+Iceland,2013,510.411
+Iceland,2014,532.572
+Iceland,2015,589.263
+Iceland,2016,661.939
+Iceland,2017,673.758
+Ireland,2005,734.252
+Ireland,2006,800.024
+Ireland,2007,785.661
+Ireland,2008,730.157
+Ireland,2009,657.01
+Ireland,2010,624.901
+Ireland,2011,614.885
+Ireland,2012,584.285
+Ireland,2014,566.049
+Ireland,2016,588.437
+Ireland,2017,582.343
+Italy,2005,543.366
+Italy,2006,555.424
+Italy,2007,553.824
+Italy,2008,550.914
+Italy,2009,543.214
+Italy,2010,546.816
+Italy,2011,526.707
+Italy,2012,500.906
+Italy,2013,491.517
+Italy,2014,490.849
+Italy,2015,487.368
+Italy,2016,496.381
+Italy,2017,487.394
+Italy,2018,497.548
+Japan,2005,410.828
+Japan,2006,405.1
+Japan,2007,395.474
+Japan,2008,374.253
+Japan,2009,359.783
+Japan,2010,352.872
+Japan,2011,353.544
+Japan,2012,352.225
+Japan,2013,349.72
+Japan,2014,345.771
+Japan,2015,343.641
+Japan,2016,337.891
+Japan,2017,336.416
+South Korea,2005,362.723
+South Korea,2006,364.727
+South Korea,2007,374.754
+South Korea,2008,386.439
+South Korea,2009,376.534
+South Korea,2010,362.151
+South Korea,2011,358.754
+South Korea,2012,357.187
+South Korea,2013,353.277
+South Korea,2014,360.003
+South Korea,2015,368.041
+South Korea,2016,384.968
+Luxembourg,2005,683.118
+Luxembourg,2006,692.962
+Luxembourg,2007,701.957
+Luxembourg,2008,701.868
+Luxembourg,2009,681.01
+Luxembourg,2010,677.825
+Luxembourg,2011,664.982
+Luxembourg,2012,651.946
+Luxembourg,2013,616.927
+Luxembourg,2014,627.845
+Luxembourg,2015,610.42
+Luxembourg,2016,612.191
+Luxembourg,2017,619.216
+Luxembourg,2018,613.94
+Mexico,2005,333.992
+Mexico,2006,335.952
+Mexico,2007,337.683
+Mexico,2008,339.258
+Mexico,2009,340.776
+Mexico,2010,351.106
+Mexico,2011,354.919
+Mexico,2012,359.011
+Netherlands,2005,596.866
+Netherlands,2006,593.731
+Netherlands,2007,601.091
+Netherlands,2008,595.602
+Netherlands,2009,585.696
+Netherlands,2010,568.486
+Netherlands,2011,566.31
+Netherlands,2012,548.064
+Netherlands,2013,524.831
+Netherlands,2014,526.505
+Netherlands,2015,523.423
+Netherlands,2016,521.692
+Netherlands,2017,516.528
+Netherlands,2018,516.191
+New Zealand,2006,753.962
+New Zealand,2010,579.397
+New Zealand,2011,568.496
+New Zealand,2012,562.61
+New Zealand,2013,594
+New Zealand,2014,641.704
+New Zealand,2015,698.012
+New Zealand,2016,730.802
+New Zealand,2017,740.318
+New Zealand,2018,781.13
+Norway,2005,429.128
+Norway,2006,462.576
+Norway,2007,494.841
+Norway,2008,492.028
+Norway,2009,474.827
+Norway,2010,469.721
+Norway,2011,485.618
+Norway,2012,477.092
+Norway,2013,495.715
+Norway,2014,423.051
+Norway,2015,420.633
+Norway,2016,751.516
+Norway,2017,745.651
+Norway,2018,735.655
+Poland,2005,317.157
+Poland,2006,318.998
+Poland,2007,319.764
+Poland,2008,317.91
+Poland,2009,314.274
+Poland,2010,313.907
+Poland,2011,316.793
+Poland,2012,316.111
+Poland,2013,296.006
+Poland,2014,271.192
+Poland,2015,285.612
+Poland,2016,306.771
+Poland,2017,315.362
+Poland,2018,329.232
+Portugal,2005,450.086
+Portugal,2006,463.257
+Portugal,2007,468.818
+Portugal,2008,516.014
+Portugal,2009,518.709
+Portugal,2010,516.316
+Portugal,2011,491.889
+Portugal,2012,455.066
+Portugal,2013,441.337
+Portugal,2014,454.311
+Portugal,2015,461.846
+Portugal,2016,475.992
+Portugal,2017,488.717
+Portugal,2018,510.616
+Slovakia,2005,271.875
+Slovakia,2006,282.288
+Slovakia,2007,292.453
+Slovakia,2008,312.069
+Slovakia,2009,306.117
+Slovakia,2010,317.809
+Slovakia,2011,310.056
+Slovakia,2012,305.543
+Slovakia,2013,302.947
+Slovakia,2014,318.822
+Slovakia,2015,327.854
+Slovakia,2016,346.836
+Slovakia,2017,377.336
+Slovakia,2018,413.063
+Spain,2005,583.451
+Spain,2006,585.961
+Spain,2007,575.71
+Spain,2008,549.546
+Spain,2009,538.988
+Spain,2010,506.582
+Spain,2011,481.529
+Spain,2012,465.255
+Spain,2013,451.395
+Spain,2014,445.432
+Spain,2015,453.33
+Spain,2016,461.932
+Spain,2017,472.007
+Spain,2018,475.916
+Sweden,2005,475.006
+Sweden,2006,486.881
+Sweden,2007,482.865
+Sweden,2008,480.611
+Sweden,2009,467.561
+Sweden,2010,437.334
+Sweden,2011,448.282
+Sweden,2012,449.523
+Sweden,2013,451.033
+Sweden,2014,439.825
+Sweden,2015,449.529
+Sweden,2016,448.203
+Sweden,2017,456.387
+Sweden,2018,439.955
+Switzerland,2005,668.759
+Switzerland,2006,714.673
+Switzerland,2007,725.091
+Switzerland,2008,741.589
+Switzerland,2009,707.943
+Switzerland,2010,712.669
+Switzerland,2011,692.805
+Switzerland,2012,696.303
+Switzerland,2013,703.92
+Switzerland,2014,731.903
+Switzerland,2015,726.788
+Switzerland,2016,722.68
+Switzerland,2017,708.626
+Switzerland,2018,705.169
+Turkey,2005,455.982
+Turkey,2006,432.323
+Turkey,2007,431.215
+Turkey,2008,398.955
+Turkey,2009,417.493
+Turkey,2010,404.843
+Turkey,2011,413.417
+Turkey,2012,405.477
+Turkey,2013,400.366
+Turkey,2014,397.685
+Turkey,2015,391.881
+Turkey,2016,416.229
+Turkey,2017,415.023
+Turkey,2018,413.918
+Great Britain,2005,582.554
+Great Britain,2006,583.331
+Great Britain,2007,565.941
+Great Britain,2008,537.838
+Great Britain,2009,517.399
+Great Britain,2010,503.539
+Great Britain,2011,485.241
+Great Britain,2012,471.334
+Great Britain,2013,475.354
+Great Britain,2014,475.817
+Great Britain,2015,477.907
+Great Britain,2016,478.295
+Great Britain,2017,463.255
+Great Britain,2018,458.526
+United States,2005,773.041
+United States,2006,775.883
+United States,2007,766.734
+United States,2008,748.268
+United States,2009,719.028
+United States,2010,730.939
+United States,2011,725.618
+United States,2012,722.075
+United States,2013,725.978
+United States,2014,730.716
+United States,2015,736.131
+United States,2016,744.591
+United States,2017,742.702
+Chile,2005,315.998
+Chile,2006,324.736
+Chile,2007,332.295
+Chile,2008,335.642
+Chile,2009,342.262
+Chile,2010,347.879
+Chile,2011,356.421
+Chile,2014,383.565
+Chile,2015,400.535
+Chile,2016,396.981
+Chile,2017,439.729
+Estonia,2005,433.143
+Estonia,2006,397.224
+Estonia,2007,447.818
+Estonia,2008,391.023
+Estonia,2009,338.289
+Estonia,2010,304.782
+Estonia,2011,300.518
+Estonia,2012,280.39
+Estonia,2013,292.852
+Estonia,2014,356.726
+Estonia,2015,359.265
+Estonia,2016,375.508
+Estonia,2017,389.301
+Estonia,2018,404.779
+Israel,2005,625.777
+Israel,2006,632.724
+Israel,2007,628.584
+Israel,2008,631.549
+Israel,2009,632.932
+Israel,2010,629.308
+Israel,2011,633.864
+Israel,2012,635.25
+Israel,2013,628.57
+Israel,2014,630.905
+Israel,2015,636.919
+Israel,2016,648.837
+Israel,2017,659.237
+Israel,2018,675.081
+Slovenia,2005,493.765
+Slovenia,2006,515.114
+Slovenia,2007,524.005
+Slovenia,2008,538.282
+Slovenia,2009,523.335
+Slovenia,2010,489.4
+Slovenia,2011,414.088
+Slovenia,2012,360.625
+Slovenia,2013,412.767
+Slovenia,2014,430.528
+Slovenia,2015,446.406
+Slovenia,2016,454.076
+Slovenia,2017,468.805
+Slovenia,2018,485.184
+Colombia,2005,175.531
+Colombia,2006,173.377
+Colombia,2007,206.847
+Colombia,2008,204.559
+Colombia,2009,249.287
+Colombia,2010,196.663
+Colombia,2011,210.22
+Colombia,2012,193.484
+Colombia,2013,194.698
+Colombia,2014,192.435
+Colombia,2015,206.909
+Colombia,2016,233.083
+Colombia,2017,218.622
+Colombia,2018,240.021
+Latvia,2005,317.941
+Latvia,2006,341.563
+Latvia,2007,391.667
+Latvia,2008,346.306
+Latvia,2009,351.066
+Latvia,2010,320.993
+Latvia,2011,344.209
+Latvia,2012,317.837
+Latvia,2013,344.262
+Latvia,2014,359.189
+Latvia,2015,399.495
+Latvia,2016,406.465
+Latvia,2017,409.098
+Latvia,2018,407.097
+Russia,2005,402.327
+Russia,2006,424.715
+Russia,2007,438.874
+Russia,2008,450.754
+Russia,2009,466.072
+Russia,2010,481.943
+Russia,2011,480.564
+Russia,2012,558.213
+Lithuania,2005,384.948
+Lithuania,2006,401.328
+Lithuania,2007,415.348
+Lithuania,2008,426.093
+Lithuania,2009,380.622
+Lithuania,2010,400.99
+Lithuania,2011,434.351
+Lithuania,2012,436.754
+Lithuania,2013,425.416
+Lithuania,2014,427.478
+Lithuania,2015,443.402
+Lithuania,2016,440.227
+Lithuania,2017,452.106
+Lithuania,2018,464.28
+Costa Rica,2010,325.053
+Costa Rica,2011,353.882
+Costa Rica,2012,358.069
+Costa Rica,2013,365.35
+Costa Rica,2014,368.827
+Costa Rica,2015,383.112
+Costa Rica,2016,246.063
+Costa Rica,2017,253.428
+Costa Rica,2018,289.645
